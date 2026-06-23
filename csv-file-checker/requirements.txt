@@ -1,0 +1,4 @@
+pandas>=2.0
+chardet>=5.0
+ipywidgets>=8.0
+notebook>=7.0
